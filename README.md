@@ -32,7 +32,8 @@ Create an .env file and add your MindsDB API KEY:
 
 Add your database credentials to the .env file:
 
-``` DATABASE_USER=database_user
+```
+DATABASE_USER=database_user
 DATABASE_PASSWORD=database_password
 DATABASE_HOST=database_host
 DATABASE_PORT=database_port
